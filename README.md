@@ -1,7 +1,7 @@
 # Data-Structures-445
 
-University of Pittsburgh 
-CS 0445 Data Structures
+University of Pittsburgh\n 
+CS 0445 Data Structures\n
 Instructor: Sherif Khattab
 
 Course Description:
