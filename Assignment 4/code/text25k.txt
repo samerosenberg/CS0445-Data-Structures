@@ -1,0 +1,216 @@
+Algorithm: Quick Sort
+Array size: 25000
+Order: Random
+Number of trials: 10
+Average Time: 0.00419683 seconds
+Average number of comparisons: 1727370 comparisons
+Average number of data moves: 259105 moves
+
+Algorithm: Median of 3 Quick Sort(5)
+Array size: 25000
+Order: Random
+Number of trials: 10
+Average Time: 0.004760562 seconds
+Average number of comparisons: 3300537 comparisons
+Average number of data moves: 307038 moves
+
+Algorithm: Median of 3 Quick Sort(20)
+Array size: 25000
+Order: Random
+Number of trials: 10
+Average Time: 0.002532761 seconds
+Average number of comparisons: 6143229 comparisons
+Average number of data moves: 627214 moves
+
+Algorithm: Median of 3 Quick Sort(100)
+Array size: 25000
+Order: Random
+Number of trials: 10
+Average Time: 0.002976773 seconds
+Average number of comparisons: 8432174 comparisons
+Average number of data moves: 1245308 moves
+
+Algorithm: Random Pivot Quick Sort
+Array size: 25000
+Order: Random
+Number of trials: 10
+Average Time: 0.002843032 seconds
+Average number of comparisons: 11742220 comparisons
+Average number of data moves: 1552973 moves
+
+Algorithm: Iterative Quick Sort
+Array size: 25000
+Order: Random
+Number of trials: 10
+Average Time: 0.004749425 seconds
+Average number of comparisons: 15194126 comparisons
+Average number of data moves: 1868243 moves
+
+Algorithm: Merge Sort
+Array size: 25000
+Order: Random
+Number of trials: 10
+Average Time: 0.009900622 seconds
+Average number of comparisons: 18683609 comparisons
+Average number of data moves: 2567293 moves
+
+Algorithm: Iterative Merge Sort
+Array size: 25000
+Order: Random
+Number of trials: 10
+Average Time: 0.00628975 seconds
+Average number of comparisons: 22099720 comparisons
+Average number of data moves: 3313789 moves
+
+Algorithm: My Iterative Merge Sort
+Array size: 25000
+Order: Random
+Number of trials: 10
+Average Time: 0.005216508 seconds
+Average number of comparisons: 25832200 comparisons
+Average number of data moves: 4060285 moves
+
+Algorithm: Quick Sort
+Array size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.353467138 seconds
+Average number of comparisons: 499980 comparisons
+Average number of data moves: 74997 moves
+
+Algorithm: Median of 3 Quick Sort(5)
+Array size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: 5.64212E-4 seconds
+Average number of comparisons: 26491740 comparisons
+Average number of data moves: 4126665 moves
+
+Algorithm: Median of 3 Quick Sort(20)
+Array size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: 4.52696E-4 seconds
+Average number of comparisons: 352340 comparisons
+Average number of data moves: 54092 moves
+
+Algorithm: Median of 3 Quick Sort(100)
+Array size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: 3.75227E-4 seconds
+Average number of comparisons: 262740 comparisons
+Average number of data moves: 50508 moves
+
+Algorithm: Random Pivot Quick Sort
+Array size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: 5.64658E-4 seconds
+Average number of comparisons: 659540 comparisons
+Average number of data moves: 66380 moves
+
+Algorithm: Iterative Quick Sort
+Array size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: 7.01644E-4 seconds
+Average number of comparisons: 603120 comparisons
+Average number of data moves: 51696 moves
+
+Algorithm: Merge Sort
+Array size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: 1.39333E-4 seconds
+Average number of comparisons: 249990 comparisons
+Average number of data moves: 0 moves
+
+Algorithm: Iterative Merge Sort
+Array size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.002073958 seconds
+Average number of comparisons: 1944920 comparisons
+Average number of data moves: 746496 moves
+
+Algorithm: My Iterative Merge Sort
+Array size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.001407233 seconds
+Average number of comparisons: 3732480 comparisons
+Average number of data moves: 746496 moves
+
+Algorithm: Quick Sort
+Array size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.325155732 seconds
+Average number of comparisons: 499980 comparisons
+Average number of data moves: 74997 moves
+
+Algorithm: Median of 3 Quick Sort(5)
+Array size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.001067615 seconds
+Average number of comparisons: 1322180 comparisons
+Average number of data moves: 161498 moves
+
+Algorithm: Median of 3 Quick Sort(20)
+Array size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: 9.73053E-4 seconds
+Average number of comparisons: 983390 comparisons
+Average number of data moves: 142718 moves
+
+Algorithm: Median of 3 Quick Sort(100)
+Array size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: 8.29766E-4 seconds
+Average number of comparisons: 784890 comparisons
+Average number of data moves: 115460 moves
+
+Algorithm: Random Pivot Quick Sort
+Array size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.001004843 seconds
+Average number of comparisons: 1322180 comparisons
+Average number of data moves: 161498 moves
+
+Algorithm: Iterative Quick Sort
+Array size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.001283539 seconds
+Average number of comparisons: 1522490 comparisons
+Average number of data moves: 184722 moves
+
+Algorithm: Merge Sort
+Array size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.002284379 seconds
+Average number of comparisons: 2037550 comparisons
+Average number of data moves: 734464 moves
+
+Algorithm: Iterative Merge Sort
+Array size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.002032159 seconds
+Average number of comparisons: 1787560 comparisons
+Average number of data moves: 746496 moves
+
+Algorithm: My Iterative Merge Sort
+Array size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.001547892 seconds
+Average number of comparisons: 3732480 comparisons
+Average number of data moves: 746496 moves
+

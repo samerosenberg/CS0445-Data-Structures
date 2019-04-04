@@ -1,0 +1,80 @@
+>> java Snap 50 3
+Welcome to the Game of Snap!
+
+Now dealing the cards to the players...
+
+Here is Player 0's face-down pile:
+Contents:
+Queen-of-Spades Five-of-Clubs Four-of-Hearts King-of-Hearts Jack-of-Diamonds Ace-of-Hearts Seven-of-Spades Queen-of-Clubs Jack-of-Hearts Six-of-Diamonds Six-of-Spades Five-of-Hearts Ten-of-Spades Five-of-Spades Jack-of-Clubs Jack-of-Spades Three-of-Diamonds 
+
+Here is Player 1's face-down pile:
+Contents:
+Nine-of-Spades Eight-of-Clubs Two-of-Clubs Eight-of-Diamonds Seven-of-Hearts Four-of-Spades Seven-of-Diamonds Eight-of-Hearts Five-of-Diamonds Queen-of-Hearts Four-of-Diamonds Two-of-Diamonds Nine-of-Clubs Four-of-Clubs Three-of-Spades Seven-of-Clubs Queen-of-Diamonds 
+
+Here is Player 2's face-down pile:
+Contents:
+Ace-of-Spades Three-of-Clubs King-of-Spades Nine-of-Diamonds Six-of-Clubs Two-of-Hearts King-of-Diamonds King-of-Clubs Nine-of-Hearts Ten-of-Hearts Ace-of-Diamonds Three-of-Hearts Six-of-Hearts Two-of-Spades Ace-of-Clubs Eight-of-Spades Ten-of-Diamonds 
+
+Here is the Snap Pool: 
+Contents:
+Ten-of-Clubs 
+
+Starting the game!
+
+Rnd #0: No Match! 
+Rnd #1: No Match! 
+Rnd #2: No Match! 
+Rnd #3: No Match! 
+Rnd #4: No Match! 
+Rnd #5: No Match! 
+Rnd #6: Match but no winner! 2 players shouted!
+Rnd #7: No Match! 
+Rnd #8: No Match! 
+Rnd #9: No Match! 
+Rnd #10: No Match! 
+Rnd #11: No Match! 
+Rnd #12: No Match! 
+Rnd #13: No Match! 
+Rnd #14: No Match! 
+Rnd #15: No Match! 
+Rnd #16: No Match! 
+Rnd #17: No Match! 
+Rnd #18: No Match! 
+Rnd #19: Match but no winner! 2 players shouted!
+Rnd #20: Match but no winner! 2 players shouted!
+Rnd #21: No Match! 
+Rnd #22: No Match! 
+Rnd #23: No Match! 
+Rnd #24: No Match! 
+Rnd #25: No Match! 
+Rnd #26: No Match! 
+Rnd #27: No Match! 
+Rnd #28: No Match! 
+Rnd #29: No Match! 
+Rnd #30: No Match! 
+Rnd #31: No Match! 
+Rnd #32: No Match! 
+Rnd #33: No Match! 
+Rnd #34: No Match! 
+Rnd #35: No Match! 
+Rnd #36: No Match! 
+Rnd #37: No Match! 
+Rnd #38: No Match! 
+Rnd #39: No Match! 
+Rnd #40: No Match! 
+Rnd #41: No Match! 
+Rnd #42: No Match! 
+Rnd #43: No Match! 
+Rnd #44: No Match! 
+Rnd #45: Match but no winner! 2 players shouted!
+Rnd #46: No Match! 
+Rnd #47: No Match! 
+Rnd #48: No Match! 
+Rnd #49: No Match! 
+
+After 50 rounds:
+	Player 0 ends with 17 cards
+	Player 1 ends with 17 cards
+	Player 2 ends with 17 cards
+	Snap pool ends with 1 cards
+	A tie! Player 0 Player 1 Player 2 all have 17 cards.

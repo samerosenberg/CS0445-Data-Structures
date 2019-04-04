@@ -1,0 +1,216 @@
+Algorithm: Simple QuickSort
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Median of Three (5)
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Median of Three (20)
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Median of Three (100)
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Random Pivot (5)
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Iterative Quick Sort
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Recursive MergeSort
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Iterative MergeSort
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Iterative MergeSort with explicit stack
+Array Size: 25000
+Order: Random
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Simple QuickSort
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Median of Three (5)
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Median of Three (20)
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Median of Three (100)
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Sorted Pivot (5)
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Iterative Quick Sort
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Recursive MergeSort
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Iterative MergeSort
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Iterative MergeSort with explicit stack
+Array Size: 25000
+Order: Sorted
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Simple QuickSort
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Median of Three (5)
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Median of Three (20)
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Median of Three (100)
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Reverse Pivot (5)
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Iterative Quick Sort
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Recursive MergeSort
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Iterative MergeSort
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+
+Algorithm: Iterative MergeSort with explicit stack
+Array Size: 25000
+Order: Reverse
+Number of trials: 10
+Average Time: ... sec
+Average number of comparisons: ... comparisons
+Average number of data moves: ... moves
+

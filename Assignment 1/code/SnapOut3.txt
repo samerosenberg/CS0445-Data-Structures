@@ -1,0 +1,52 @@
+Welcome to the Game of Snap!
+
+Now dealing the cards to the players...
+
+Here is Player 0's face-down pile:
+Contents:
+Seven-of-Clubs Ten-of-Diamonds Five-of-Clubs Two-of-Diamonds Ten-of-Hearts Four-of-Diamonds Four-of-Clubs Ace-of-Hearts Jack-of-Clubs Queen-of-Hearts 
+
+Here is Player 1's face-down pile:
+Contents:
+King-of-Diamonds Eight-of-Diamonds Ten-of-Clubs Nine-of-Diamonds Ace-of-Clubs Ace-of-Diamonds Queen-of-Clubs Three-of-Diamonds Nine-of-Hearts Nine-of-Spades 
+
+Here is Player 2's face-down pile:
+Contents:
+Ace-of-Spades Eight-of-Spades King-of-Spades Queen-of-Spades Five-of-Hearts King-of-Hearts Seven-of-Diamonds Eight-of-Clubs Two-of-Spades King-of-Clubs 
+
+Here is Player 3's face-down pile:
+Contents:
+Jack-of-Diamonds Seven-of-Hearts Ten-of-Spades Two-of-Hearts Two-of-Clubs Four-of-Hearts Three-of-Clubs Queen-of-Diamonds Five-of-Diamonds Six-of-Hearts 
+
+Here is Player 4's face-down pile:
+Contents:
+Jack-of-Spades Four-of-Spades Six-of-Diamonds Five-of-Spades Jack-of-Hearts Three-of-Spades Three-of-Hearts Six-of-Spades Six-of-Clubs Seven-of-Spades 
+
+Here is the Snap Pool: 
+Contents:
+Nine-of-Clubs Eight-of-Hearts 
+
+Starting the game!
+
+Rnd #0: Match but no winner! 3 players shouted!
+Rnd #1: Match but no winner! 3 players shouted!
+Rnd # 2: Match! Player 2 shouts alone.
+	Ten-of-Clubs of Player 1 (3 cards) matches Ten-of-Spades of Player 3 (3 cards) 
+Rnd #3: Match but no winner! 3 players shouted!
+Rnd #4: No Match! 
+Rnd # 5: Match! Player 3 shouts alone.
+	Four-of-Diamonds of Player 0 (6 cards) matches Four-of-Hearts of Player 3 (3 cards) 
+Rnd # 6: Match! Player 0 shouts alone.
+	Three-of-Clubs of Player 3 (1 cards) matches Three-of-Hearts of Player 4 (7 cards) 
+Rnd #7: No Match! 
+Rnd #8: No Match! 
+Rnd #9: No Match! 
+
+After 10 rounds:
+	Player 0 ends with 12 cards
+	Player 1 ends with 7 cards
+	Player 2 ends with 16 cards
+	Player 3 ends with 12 cards
+	Player 4 ends with 3 cards
+	Snap pool ends with 2 cards
+	Player 2 wins with 16 cards

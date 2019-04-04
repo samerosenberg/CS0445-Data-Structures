@@ -1,0 +1,26 @@
+public boolean add(T newEntry) {
+		boolean result = aBag.add(newEntry);
+		if(!result) {
+			doubleCapacity();
+			result = aBag.add(newEntry);
+		}
+		return result;
+	}
+
+  private final T[] bag;
+
+  public boolean add(T newEntry){
+    checkInitialization();
+    boolean result = false;
+    if(numberOfEntries >= bag.length) {
+      aBag = new ArrayBag<>(2*bag.getCurrentSize());
+      for(T entry : entries) {
+        aBag.add(entry);
+      }
+      } else {
+        bag[size] = newEntry;
+        size ++;
+        result = true;
+      }
+        return result;
+  }

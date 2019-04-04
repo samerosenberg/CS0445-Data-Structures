@@ -1,0 +1,38 @@
+L1: 0 1 2 3 4 5 6 7 8 9 
+L2: 0 1 2 3 4 5 6 7 8 9 
+L1.leftShift(2)
+	L1: 2 3 4 5 6 7 8 9 
+L2.rightShift(3)
+	L2: 0 1 2 3 4 5 6 
+L1.leftRotate(4)
+	L1: 6 7 8 9 2 3 4 5 
+L2.rightRotate(2)
+	L2: 5 6 0 1 2 3 4 
+Reversing L1
+	L1: 5 4 3 2 9 8 7 6 
+Reversing L1 again
+	L1: 6 7 8 9 2 3 4 5 
+
+5 retrieved from Q
+6 retrieved from Q
+0 retrieved from Q
+1 retrieved from Q
+2 retrieved from Q
+3 retrieved from Q
+4 retrieved from Q
+Nothing in the Q
+L3: Tori Sarah Kate Aimee Shirley Chrissy Debbie Alanis Courtney Sinead 
+L3.leftRotate(9)
+	L3: Sinead Tori Sarah Kate Aimee Shirley Chrissy Debbie Alanis Courtney 
+L4: Tori Sarah Kate Aimee Shirley Chrissy Debbie Alanis Courtney Sinead 
+L4.leftRotate(10)
+	L4: Tori Sarah Kate Aimee Shirley Chrissy Debbie Alanis Courtney Sinead 
+L5: Tori Sarah Kate Aimee Shirley Chrissy Debbie Alanis Courtney Sinead 
+L5.leftRotate(11)
+	L5: Sarah Kate Aimee Shirley Chrissy Debbie Alanis Courtney Sinead Tori 
+L4.rightRotate(22)
+	L4: Courtney Sinead Tori Sarah Kate Aimee Shirley Chrissy Debbie Alanis 
+L4.rightRotate(-3)
+	L4: Sarah Kate Aimee Shirley Chrissy Debbie Alanis Courtney Sinead Tori 
+L4.leftRotate(-4)
+	L4: Alanis Courtney Sinead Tori Sarah Kate Aimee Shirley Chrissy Debbie 
